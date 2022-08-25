@@ -1,5 +1,5 @@
 # GRCPS-ISSRE22-DS
-This repository contains the full list of references for the paper titles "Green Resilience of Cyber-Physical Systems".
+This repository contains the full list of references for the paper titled "Green Resilience of Cyber-Physical Systems".
 
 __Title__: Green Resilience of Cyber-Physical Systems.
 
